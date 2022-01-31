@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lord-Primo
-- 👀 I’m interested in Python, State Maschines and Spicy CD/CI
+- 👀 I’m interested in Python, State Machines and Spicy CD/CI
 - 🌱 I’m currently learning Java & C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
